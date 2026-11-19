@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "SRCA: Risk-Calibrated Selective Image Authentication"
+authors:
+  - family-names: Garg
+    given-names: Preeti
+    affiliation: "Kuala Lumpur University of Science & Technology (KLUST); Krishna Institute of Engineering & Technology (KIET)"
+    email: preeti.itgarg@gmail.com
+  - family-names: Jain
+    given-names: Vishal
+    affiliation: "Vivekananda Institute of Professional Studies - Technical Campus"
+  - family-names: Manteghi
+    given-names: Golnoosh
+    affiliation: "Kuala Lumpur University of Science & Technology (KLUST)"
+  - family-names: Gautam
+    given-names: Madhu
+    affiliation: "Krishna Institute of Engineering & Technology (KIET)"
+license: MIT
+preferred-citation:
+  type: article
+  title: "SRCA: Risk-Calibrated Selective Image Authentication through Joint Payload Feasibility and Diagnostic-Loss Control"
+  authors:
+    - family-names: Garg
+      given-names: Preeti
+    - family-names: Jain
+      given-names: Vishal
+    - family-names: Manteghi
+      given-names: Golnoosh
+    - family-names: Gautam
+      given-names: Madhu
+  journal: "Journal of Information Security and Applications"
+  status: submitted
+  year: 2026
